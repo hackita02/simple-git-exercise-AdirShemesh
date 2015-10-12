@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: homefries
+I like to hear: Progressive rock
+My hobbies are programming, photoshopping, roleplaying...
 
-I would like to travel to <XXXX>.
+I would like to travel to Europe.
 
-"<Your favorite quote goes here>".
+"When you're young, as a comic, you don't have a lot of leverage." - Louis C. K.
